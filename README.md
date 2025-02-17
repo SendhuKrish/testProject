@@ -1,6 +1,3 @@
 # tSDASAS
 
 DADA
-
-
-estProje
